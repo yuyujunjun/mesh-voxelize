@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "mesh-voxelize"
-version = "0.1.0"
-description = "Fast CPU mesh voxelization from TRELLIS.2/o-voxel"
+version = "0.2.0"
+description = "Fast CPU + GPU mesh voxelization from TRELLIS.2/o-voxel. GPU variant (CUDA) gives 3× speedup vs CPU with 99.99% IoU."
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.8"
