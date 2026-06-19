@@ -1,3 +1,5 @@
+If you look for a gpu version of o-voxel. Refer to "https://github.com/yuyujunjun/o-voxel-gpu" for more complete and consistent implementation.
+
 # mesh-voxelize
 
 CPU + GPU mesh voxelization extracted from [TRELLIS.2](https://github.com/JeffreyXiang/TRELLIS.2) / o-voxel. GPU variant (CUDA) gives 3× speedup vs CPU at 99.99% IoU.
